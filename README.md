@@ -1,0 +1,2 @@
+# Factionbot
+Factionbot for Discord
